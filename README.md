@@ -18,4 +18,11 @@ Secret keys are generated for each user during registration.
 The secret key is a random 128-bit key encoded in Base64 format.
 The generateRandomKey() method generates a random key using the SecureRandom class and encodes it in Base64.
 
-![image](https://github.com/Shefli2809/fileenc/assets/90629203/d4029753-f7cb-460e-ace7-42e6f8671472)
+![image](https://github.com/Shefli2809/fileenc/assets/90629203/318d16c9-b471-469d-b289-58f54e332b01)
+
+![image](https://github.com/Shefli2809/fileenc/assets/90629203/1ad87c72-b275-4398-b97a-92d0fd54d77e)
+
+![image](https://github.com/Shefli2809/fileenc/assets/90629203/e3aefd94-18eb-406d-bdc2-02615e7209cb)
+
+![image](https://github.com/Shefli2809/fileenc/assets/90629203/9f630fa2-0947-47f6-91d9-16c057b5a648)
+
